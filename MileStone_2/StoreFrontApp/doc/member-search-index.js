@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"StoreFront","c":"SalableProduct","l":"cancelPurchase()"},{"p":"StoreFront","c":"SalableProduct","l":"purchase()"},{"p":"StoreFront","c":"SalableProduct","l":"SalableProduct(String, String, double, int)","u":"%3Cinit%3E(java.lang.String,java.lang.String,double,int)"},{"p":"StoreFront","c":"SalableProduct","l":"toString()"}];updateSearchResults();
